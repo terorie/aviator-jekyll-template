@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Aviator
-description: Jekyll template for API documentation.
-url: https://example.com
+title: terorify API v1
+description: Documentation of the terorify public HTTP API
+url: https://git.terorie.com/terorify/terorify-server-jvm
 google_analytics_key:
 permalink: pretty
 
